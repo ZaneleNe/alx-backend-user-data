@@ -1,3 +1,7 @@
+0x00. Personal data
+Back-end
+Authentification
+
 1. Examples of Personally Identifiable Information (PII)
 Personally Identifiable Information (PII) is any data that could potentially identify a specific individual. Here are some common examples:
 
